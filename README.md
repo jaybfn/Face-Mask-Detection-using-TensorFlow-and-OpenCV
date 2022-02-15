@@ -8,6 +8,8 @@ In most public meetings, such as malls, theaters, and parks, it is becoming incr
 
 The Face Mask detection model is constructed using the keras library's Sequential API in this suggested technique. This allows us to incrementally add new layers to our model. The numerous layers that we employed in our CNN model are listed below.
 
+1. 
+
 
 
 
