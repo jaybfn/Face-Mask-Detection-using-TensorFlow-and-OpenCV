@@ -124,4 +124,4 @@ print(model.evaluate(x_test, y_test))
 
 # To save the model
 
-model.save(r"C:\Users\Asus\Desktop\Spiced_Academy\naive-zatar-student-codes\week9\imageclassifier\models\LeNET_mod_face.h5")
+model.save(r"..\models\model.h5")

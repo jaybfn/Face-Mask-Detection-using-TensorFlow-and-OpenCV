@@ -8,12 +8,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # path for loading images for generating new images for Image Augmentation
-base_path = r"C:\Users\Asus\Desktop\Spiced_Academy\
-    naive-zatar-student-codes\week9\imageclassifier\RawData"
+base_path = r"path here"
 
 # path for saving images generated from ImageDataGenerator.py
-save_path = r"C:\Users\Asus\Desktop\Spiced_Academy\
-    naive-zatar-student-codes\week9\imageclassifier\data_face\test"
+save_path = r"path here"
 
 # listing the directory from the base_path
 # each directory has images which corresponds to a particular class
