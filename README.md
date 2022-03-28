@@ -6,6 +6,8 @@ In most public meetings, such as malls, theaters, and parks, it is becoming incr
 
 ### CNN Architecture
 
+![picture alt](https://github.com/jaybfn/Face-Mask-Detection-using-TensorFlow-and-OpenCV/blob/main/models/model_architecture.png)
+
 The Face Mask detection model is constructed using the keras library's Sequential API in this suggested technique. This allows us to incrementally add new layers to our model. The numerous layers that we employed in our CNN model are listed below.
 
 The first layer is the Conv2D layer with 6 filters and the filter size or the kernel size is set to 5X5 and activation is set to relu
