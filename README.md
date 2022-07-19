@@ -6,7 +6,8 @@ In most public meetings, such as malls, theaters, and parks, it is becoming incr
 
 ### CNN Architecture
 
-![picture alt](https://github.com/jaybfn/Face-Mask-Detection-using-TensorFlow-and-OpenCV/blob/main/models/model_architecture.png)
+![picture alt]()
+https://www.viatech.com/en/2022/04/enabling-facemask-detection-with-the-via-som-9x35-starter-kit/
 
 The Face Mask detection model is constructed using the keras library's Sequential API in this suggested technique. This allows us to incrementally add new layers to our model. The numerous layers that we employed in our CNN model are listed below.
 
